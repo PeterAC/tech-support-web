@@ -1,0 +1,18 @@
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\AddRegistration\bin\Debug\AddRegistration.exe.config
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\AddRegistration\bin\Debug\AddRegistration.exe
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\AddRegistration\bin\Debug\AddRegistration.pdb
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\AddRegistration\obj\Debug\AddRegistration.frmAddRegistration.resources
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\AddRegistration\obj\Debug\AddRegistration.Properties.Resources.resources
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\AddRegistration\obj\Debug\AddRegistration.csproj.GenerateResource.Cache
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\AddRegistration\obj\Debug\AddRegistration.exe
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\AddRegistration\obj\Debug\AddRegistration.pdb
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\AddRegistration\obj\Debug\AddRegistration.csprojResolveAssemblyReference.cache
+C:\Users\Kupo\Documents\Programs\TechSupport\TechSupport\AddRegistration\bin\Debug\AddRegistration.exe.config
+C:\Users\Kupo\Documents\Programs\TechSupport\TechSupport\AddRegistration\bin\Debug\AddRegistration.exe
+C:\Users\Kupo\Documents\Programs\TechSupport\TechSupport\AddRegistration\bin\Debug\AddRegistration.pdb
+C:\Users\Kupo\Documents\Programs\TechSupport\TechSupport\AddRegistration\obj\Debug\AddRegistration.csprojResolveAssemblyReference.cache
+C:\Users\Kupo\Documents\Programs\TechSupport\TechSupport\AddRegistration\obj\Debug\AddRegistration.frmAddRegistration.resources
+C:\Users\Kupo\Documents\Programs\TechSupport\TechSupport\AddRegistration\obj\Debug\AddRegistration.Properties.Resources.resources
+C:\Users\Kupo\Documents\Programs\TechSupport\TechSupport\AddRegistration\obj\Debug\AddRegistration.csproj.GenerateResource.Cache
+C:\Users\Kupo\Documents\Programs\TechSupport\TechSupport\AddRegistration\obj\Debug\AddRegistration.exe
+C:\Users\Kupo\Documents\Programs\TechSupport\TechSupport\AddRegistration\obj\Debug\AddRegistration.pdb

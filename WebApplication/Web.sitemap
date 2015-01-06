@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--
+    Author: Peter Cornell
+    Date: 25/11/2014
+-->
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="Support/ProductMaintenance.aspx" title="Product Maintenance"  description="Maintain Products">
+        <siteMapNode url="Support/TechnicianMaintenance.aspx" title="Technician Maintenance"  description="Maintain Technicians" />
+        <siteMapNode url="Technician/CustomerIncidents.aspx" title="Customer Incidents"  description="Manage Customer Incidents" />
+        <siteMapNode url="Technician/AddIncident.aspx" title="Add Incident"  description="Add a new incident" />
+        <siteMapNode url="Support/AddRegistration.aspx" title="Add Registration"  description="Add a new registration" />
+    </siteMapNode>
+</siteMap>

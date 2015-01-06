@@ -1,0 +1,43 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.Master.cs" Inherits="WebApplication1.Site1" %>
+
+<!DOCTYPE html>
+<!--
+    Author: Peter Cornell
+    Date: 25/11/2014
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="Styles/style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <h3><a href="../Login.aspx">Tech Support</a></h3>
+        <div id="content">
+
+            <asp:Menu ID="nav" runat="server" BackColor="#284E98" DataSourceID="SiteMapDataSource" DynamicHorizontalOffset="2" Font-Names="Verdana" Font-Size="Medium" ForeColor="#FDFDFD" StaticSubMenuIndent="10px" Orientation="Horizontal" StaticDisplayLevels="2" Width="100%">
+                <DynamicHoverStyle BackColor="#FDFDFD" ForeColor="White" />
+                <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" ItemSpacing="2px" />
+                <DynamicMenuStyle BackColor="#B5C7DE" />
+                <DynamicSelectedStyle BackColor="#FDFDFD" />
+                <StaticHoverStyle BackColor="#FDFDFD" ForeColor="#284E98" />
+                <StaticMenuItemStyle HorizontalPadding="20px" VerticalPadding="10px" CssClass="navitems" />
+                <StaticSelectedStyle BackColor="#507CD1" CssClass="selected" />
+            </asp:Menu>
+            <div id="main">
+                <asp:SiteMapDataSource ID="SiteMapDataSource" runat="server" />
+
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+                    <p>
+                        &nbsp;
+                    </p>
+
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

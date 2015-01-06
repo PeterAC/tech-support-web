@@ -1,0 +1,8 @@
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\AddIncident\bin\Debug\AddIncident.exe.config
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\AddIncident\bin\Debug\AddIncident.exe
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\AddIncident\bin\Debug\AddIncident.pdb
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\AddIncident\obj\Debug\AddIncident.frmAddIncident.resources
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\AddIncident\obj\Debug\AddIncident.Properties.Resources.resources
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\AddIncident\obj\Debug\AddIncident.csproj.GenerateResource.Cache
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\AddIncident\obj\Debug\AddIncident.exe
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\AddIncident\obj\Debug\AddIncident.pdb
